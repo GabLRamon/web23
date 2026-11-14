@@ -1,6 +1,6 @@
 Restaurante — TDE 2
 
-# GRUPO!!!!: Gabriel Leite Ramon, Leonardo Bueno de Castilho dos Santos, Joao Victor Araujo Lourenco Domingues
+# GRUPO: Gabriel Leite Ramon, Leonardo Bueno de Castilho dos Santos, Joao Victor Araujo Lourenco Domingues
 
 Requisitos
 
